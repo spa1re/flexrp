@@ -1,0 +1,2 @@
+# flexrp
+my gmod server
